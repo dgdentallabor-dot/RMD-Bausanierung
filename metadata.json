@@ -1,0 +1,8 @@
+{
+  "name": "Remix: RMD Bausanierung",
+  "description": "Premium Bausanierung, Innenausbau und erstklassige deutsche Handwerkskunst in Baden-Württemberg.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
