@@ -192,8 +192,8 @@ export default function Footer({ language, onOpenPrivacy, onOpenImprint, onScrol
 
               <li className="flex items-center gap-3">
                 <Phone size={14} className="text-gold flex-shrink-0" />
-                <a href="tel:+4915224941028" className="hover:text-gold transition-colors">
-                  +49 (0) 1522 4941028
+                <a href="tel:+491729081394" className="hover:text-gold transition-colors">
+                  +49 (0) 172 9081394
                 </a>
               </li>
 

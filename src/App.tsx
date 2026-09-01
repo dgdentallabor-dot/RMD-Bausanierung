@@ -47,7 +47,7 @@ export default function App() {
     const waText = encodeURIComponent(
       "Hallo Ramazan Sallaj RMD Bausanierung,\n\nich würde gerne ein persönliches Gespräch bezüglich einer Renovierung / Sanierung vereinbaren."
     );
-    window.open(`https://wa.me/4915224941028?text=${waText}`, '_blank');
+    window.open(`https://wa.me/491729081394?text=${waText}`, '_blank');
   };
 
   return (
